@@ -69,11 +69,11 @@ a.github:hover{
 }
 
 
-a.linkedind{
+a.linkedin{
   background-color: #2E70FA;
   border: solid 2px #2E70FA;
 }
-a.linkedind:hover{
+a.linkedin:hover{
   background-color: var(--bgcolor);
   border: solid 2px #2E70FA;
   color: #2E70FA;
