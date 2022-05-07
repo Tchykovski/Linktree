@@ -15,7 +15,7 @@
 
 body {
     background-color: var(--bgcolor);
-    color: #FFF;
+    color: #FFF !important;
 }
 
 .link-tree {
