@@ -18,6 +18,9 @@ body {
     color: #FFF !important;
 }
 
+a{
+  color: #FFF;
+}
 .link-tree {
     display: flex;
     flex-direction: column;
